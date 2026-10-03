@@ -1,1 +1,4 @@
-Para acessar o site, clique aqui https://viniaquino-dev.github.io/projeto-cordel/projetocordel.html
+Projeto-android
+Projeto desenvolvido no curso de HTML5 e CSS3, com foco em semântica, tipografia e responsividade.
+
+
