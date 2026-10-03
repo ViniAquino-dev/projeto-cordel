@@ -1,5 +1,4 @@
-Projeto-android
+Projeto-cordel
 
-Projeto desenvolvido no curso de HTML5 e CSS3, com foco em semântica, tipografia e responsividade.
-
+Projeto visual inspirado em literatura de cordel, desenvolvido com HTML5 e CSS3.
 
